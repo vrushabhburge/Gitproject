@@ -1,12 +1,7 @@
 class A{
 public void print(){
+int a,b,c;
+c=a+b;
 }
 }
 
-class Bextends A{
-public static void main(str arg[]){
-system.out.print("hello");
-public void print(){
-System.out.print("heyy");
-}
-}
